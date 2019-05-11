@@ -17,7 +17,7 @@ Within your new Data Science project, select the "Add to project" button and the
 
 Select "From URL" from the tabs along the top, and insert the URL to the Jupyter notebook in this repository. 
 
-`https://github.com/chrisw-thomas/Test/blob/master/machine_learning_v1.1.ipynb`
+`https://github.com/chrisw-thomas/AI-Skills-Academy/blob/master/machine_learning_v1.1.ipynb`
 
 Selecting the "Default Python 3.5 Free (1 vCPU and 4GB RAM)" option will provision a virtual machine to run your Jupyter notebook from. 
 
