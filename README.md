@@ -1,2 +1,2 @@
 # AI-Skills-Academy
-MIST classifier
+MNIST classifier
